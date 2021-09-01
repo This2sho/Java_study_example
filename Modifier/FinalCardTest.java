@@ -1,3 +1,4 @@
+package Modifier;
 class Card {
     final int NUMBER;
     final String KIND;

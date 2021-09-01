@@ -1,3 +1,4 @@
+package Modifier;
 final class Singleton{
     private static Singleton s = new Singleton();
 

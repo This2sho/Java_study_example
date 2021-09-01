@@ -1,3 +1,4 @@
+package Initialize;
 class InitTest {
     static int cv = 1;
     int iv = 1;
